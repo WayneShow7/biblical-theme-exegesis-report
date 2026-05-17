@@ -1,0 +1,8 @@
+interface:
+  display_name: "Bible Theme Exegesis Report"
+  short_description: "Greek, NASB, Chinese Bible theme reports"
+  brand_color: "#1F4E79"
+  default_prompt: "Use $biblical-theme-exegesis-report to research a biblical theme with Greek observations, NASB explanation, Chinese translation, commentary dialogue, and Word/PDF/PPT outputs."
+
+policy:
+  allow_implicit_invocation: true
